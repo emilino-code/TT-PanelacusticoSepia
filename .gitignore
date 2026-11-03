@@ -1,0 +1,11 @@
+# Entornos virtuales
+.venv/
+env/
+__pycache__/
+
+# Temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos pesados o del sistema
+.DS_Store
+.env
